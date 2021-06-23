@@ -3,6 +3,7 @@
 // Llaves de accesos a variables globales
 const KEY_MENSAJE = "mensaje";
 const KEY_ERROR = "error";
+const KEY_MENSAJES = 'mensajes';
 // Variables de mensajes de error
 const ERROR_MESSAGE_0 = "El comentario no puede ir vacio. Intente nuevamente.";
 
